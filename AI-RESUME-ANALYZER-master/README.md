@@ -116,4 +116,4 @@ resume-analyzer/
 
 ## Author
 
-Rithwik
+Rithwik, Rahul
